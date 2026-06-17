@@ -1,0 +1,45 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env
+
+# IDE
+
+.vscode/
+.idea/
+
+# Logs
+
+logs/
+*.log
+
+# Testing
+
+.pytest_cache/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Docker
+
+grafana-data/
+prometheus-data/
+
+# Debug Files
+
+forexfactory_debug.html
+forexfactory_debug.png
+debug_forexfactory.png
+
+# Temporary
+
+*.tmp
